@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/OSRSXPCalculator/static/css/main.e6c13ad2.css",
-    "main.js": "/OSRSXPCalculator/static/js/main.cd36d796.js",
+    "main.js": "/OSRSXPCalculator/static/js/main.b300042f.js",
     "index.html": "/OSRSXPCalculator/index.html",
     "main.e6c13ad2.css.map": "/OSRSXPCalculator/static/css/main.e6c13ad2.css.map",
-    "main.cd36d796.js.map": "/OSRSXPCalculator/static/js/main.cd36d796.js.map"
+    "main.b300042f.js.map": "/OSRSXPCalculator/static/js/main.b300042f.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cd36d796.js"
+    "static/js/main.b300042f.js"
   ]
 }
