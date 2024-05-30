@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/OSRSXPCalculator/static/js/main.ee5ae0c6.js",
+    "main.js": "/OSRSXPCalculator/static/js/main.6192eb80.js",
     "index.html": "/OSRSXPCalculator/index.html",
-    "main.ee5ae0c6.js.map": "/OSRSXPCalculator/static/js/main.ee5ae0c6.js.map"
+    "main.6192eb80.js.map": "/OSRSXPCalculator/static/js/main.6192eb80.js.map"
   },
   "entrypoints": [
-    "static/js/main.ee5ae0c6.js"
+    "static/js/main.6192eb80.js"
   ]
 }
